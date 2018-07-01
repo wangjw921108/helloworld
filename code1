@@ -1,0 +1,3 @@
+public void checkStrIsNull(String str ){
+    return  str == null?"":str;
+}
